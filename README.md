@@ -8,7 +8,7 @@ A dark, cinematic desktop lyrics display app built in Python.
 - Cinematic lyrics typography — active line is huge, past/future lines fade
 - Live waveform bar at the bottom
 - Album art extracted from MP3/FLAC metadata
-- Dark editorial theme — red accent on black
+- Dark editorial theme — red accent on black.
 
 ## Setup
 
