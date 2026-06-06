@@ -36,3 +36,4 @@ python main.py
 - Lyrics sync accuracy depends on lrclib.net having the track
 - For best results use MP3 files with proper ID3 tags (title + artist)
 - Works on Windows, macOS, Linux
+??GGS
