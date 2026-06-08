@@ -26,7 +26,7 @@ python main.py
 - mutagen — MP3/FLAC metadata + album art
 - requests — fetch lyrics from lrclib.net
 
-## Usage
+## Usage...
 1. Click the folder icon in the sidebar
 2. Select any MP3, FLAC, WAV, or OGG file
 3. Lyrics are fetched automatically
