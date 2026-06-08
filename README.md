@@ -13,7 +13,7 @@ A dark, cinematic desktop lyrics display app built in Python.
 ## Setup
 
 ```bash
-# Install dependencies
+# Install dependencies..
 pip install -r requirements.txt
 
 # Run
