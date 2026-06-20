@@ -1,5 +1,5 @@
 # Lyrica — 3D Vinyl Lyrics Display
-........
+.........
 A dark, cinematic desktop lyrics display app built in Python.
 
 ## Features
