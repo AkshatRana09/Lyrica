@@ -19,7 +19,7 @@ pip install -r requirements.txt
 # Run
 python main.py
 ```
-m
+
 ## Dependencies
 - PyQt6 — window and UI
 - pygame — audio playback
